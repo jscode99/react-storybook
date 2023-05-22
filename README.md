@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+#  React Storybook
+This repository serves as a central hub for managing and showcasing React components using Storybook.Storybook is a powerful tool for developing, documenting, and testing UI components in isolation, making it easier to build scalable and reusable user interfaces.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
