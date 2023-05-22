@@ -1,6 +1,18 @@
-#  React Storybook
+# React Storybook
+
 This repository serves as a central hub for managing and showcasing React components using Storybook.Storybook is a powerful tool for developing, documenting, and testing UI components in isolation, making it easier to build scalable and reusable user interfaces.
 
+## What ?
+
+1. A development environment and playground for UI components.
+2. Create components independently and can showcase those components interactively in an isolated development environment (**No need to worry about the business logic**).
+
+## Why ?
+
+1. Ability to view the different components that have already been developed.
+2. View what are the different props that those components accept.
+3. Ability to visually showcase those components to your stake holders for feedback.
+4. Dynamically change props, accessibility score (**No need to go back forth to your browser & editor**)
 
 ## Available Scripts
 
